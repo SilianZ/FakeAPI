@@ -558,56 +558,8 @@
                   }
               ]
           },
-          "years": {},
-          "accesses": {
-              "AndroidDownloadManager": 1,
-              "Apache-Maven": 1,
-              "BMCLNG": 654,
-              "BakaXL": 211949,
-              "Boat_H2CO3": 530,
-              "ColorMC": 1,
-              "CurseTheBeast": 16,
-              "Dalvik": 467155,
-              "Downloader": 15,
-              "FCL": 5072533,
-              "FileDownloader": 128,
-              "Gradle": 23,
-              "HMCL": 8114388,
-              "HMCL-PE": 32,
-              "Java": 2320,
-              "Java-http-client": 1194,
-              "LauncherX": 3241,
-              "MCinaBox": 23,
-              "ML": 116,
-              "MSL": 45,
-              "Mozilla": 2440,
-              "NsisoLauncher": 180,
-              "Opera": 15,
-              "PCL2": 37638729,
-              "Pojav": 36,
-              "PojavLauncher": 238,
-              "PolarDownloadCore": 52,
-              "PrismLauncher": 1,
-              "SLauncher": 6,
-              "SharpCraftLauncher": 100,
-              "VQRL": 1,
-              "[Unknown]": 16909,
-              "bmclapi-ctrl": 474,
-              "bmclapi-warden": 20969,
-              "gomclauncher": 1,
-              "got": 12,
-              "okhttp": 59,
-              "openbmclapi-cluster": 285842,
-              "python-requests": 208,
-              "quick": 1,
-              "voxelum": 2590
-          }
       },
       "enabled": true,
       "isSync": false,
-      "storages": [
-          "China Telecom",
-          "China Mobile"
-      ]
   }
 }
